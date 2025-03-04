@@ -1,0 +1,6 @@
+{
+  "filename": "example-image.jpg",
+  "bucket": "image-upload-bucket-123",
+  "size_in_bytes": 345678,
+  "upload_time": "2025-02-27T12:34:56.789Z"
+}
